@@ -1,4 +1,4 @@
-# Teaching_Assistant-_Application-
+# Teaching_Assistant_Application
 # NguyenPham
 
 The application form for TA

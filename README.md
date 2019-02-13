@@ -1,5 +1,6 @@
 # Teaching_Assistant_Application
 # NguyenPham
+-HTML-  -JS-  -CSS-  -PHP-
 
 The application form for TA
 It require students/applicants enter Fullname, ID, major, email, and phone number

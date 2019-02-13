@@ -1,0 +1,165 @@
+	body {
+	  background-color: #003300;
+	}
+
+	form {
+	  width: 80%;
+	  color: White;
+	  background-color: #003300;
+	  float: right;
+	  padding: 10px;
+	  font-family: 'Segoe UI Light', 'Segoe UI', 'Lucida Grande', Verdana, Arial, Helvetica, sans-serif;
+	  position: relative;
+	}
+
+	label {
+	  display: block;
+	}
+
+	table input {
+	  width: 100%;
+	}
+
+	table select {
+	  width: 100%;
+	}
+
+	table button {
+	  width: 100%;
+	}
+
+	hr {
+	  width: 80%;
+	  float: left;
+	  border-color: #00CC00;
+	  margin-top: -20px;
+	}
+
+	input:focus {
+	  background-color: #00FF99;
+	}
+
+	textarea:focus {
+	  background-color: #00FF99;
+	}
+
+	select:focus {
+	  background-color: #00FF99;
+	}
+
+	input, textarea, select {
+	  font-size: 20px;
+	  margin-bottom: 5px;
+	  margin-top: 5px;
+	}
+
+	select {
+	  border: solid White 2px;
+	}
+
+	button, #submit, #reset {
+	  background-color: #003300;
+	  border-radius: 0px;
+	  color: White;
+	  padding: 2px 30px 2px 30px;
+	  border: solid White 1px;
+	  margin-bottom: 10px;
+	  font-size: 1.5em;
+	}
+
+	button:hover, #submit:hover, #reset:hover {
+	  background-color: #00FF00;
+	}
+
+	#rowHeader {
+	  background-color: #006633;
+	}
+
+	#Courses td {
+	  text-align: center;
+	}
+
+	#forSchedule td {
+	  background-color: White;
+	  color: Black;
+	}
+
+	#getHour {
+	  background-color: White;
+	  width: 100%;
+	  height: 100%;
+	  padding: 0px 0px 0px 0px;
+	  margin: 0px 0px 0px 0px;
+	  border: none;
+	}
+
+	#header {
+	  font-family: 'Segoe UI Light', 'Segoe UI', 'Lucida Grande', Verdana, Arial, Helvetica, sans-serif;
+	  text-align: left;
+	  background-color: #282828;
+	}
+
+	#title {
+	  font-weight: normal;
+	  font-size: 4em;
+	}
+
+	#header p {
+	  margin-top: -10px;
+	}
+
+	#nav {
+	  font-family: 'Segoe UI Light', 'Segoe UI', 'Lucida Grande', Verdana, Arial, Helvetica, sans-serif;
+	  font-weight: normal;
+	  font-size: 18px;
+	  color: White;
+	  float: left;
+	  padding: 5px;
+	  margin-top: 40px;
+	  margin-left: -10px;
+	  position: fixed;
+	}
+
+	#nav span {
+	  float: right;
+	  margin-right: 10px;
+	  margin-left: 10px;
+	}
+
+	.part {
+	  background-color: #282828;
+	  border: solid #003300 1px;
+	  padding-top: 10px;
+	  padding-left: 10px;
+	  padding-bottom: 10px;
+	}
+
+	.inline {
+	  color: White;
+	  display: inline-block;
+	  margin: 0px 5px 5px 5px;
+	}
+
+	.centered {
+	  position: fixed;
+	  /* or absolute */
+	  top: 50%;
+	  left: 50%;
+	}
+
+	.middle {
+		position: absolute;
+		/* or absolute */
+		bottom: 0%;
+		left: 30%;
+	}
+	.sub {
+	  margin-top: 20px;
+	  padding: 5px 5px 5px 5px;
+	}
+
+	.sub h1 {
+	  font-weight: normal;
+	  font-height: 1.2em;
+	  font-size: 2.5em;
+	}
